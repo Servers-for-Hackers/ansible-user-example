@@ -78,7 +78,7 @@ On Ubuntu 14.04, the `mkpasswd` command comes with package `whois`:
 After installing `whois`, you can use the `mkpasswd` command.
 
 ```bash
-`mkpasswd --method=SHA-512`
+mkpasswd --method=SHA-512
 Password: <enter your password here>
 $6$hCDK.2eB3VXD4$fz95AiqRvc7DHbFWYMbTiRWJza5SCHclueFkISsivF3u6dDkHQmIds1uNrVb5Fk6.6WEes6iQ25GuJx0Fteos/
 ```
